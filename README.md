@@ -11,8 +11,6 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **ICBT**
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **chamod.mullegama@gmail.com**
   
 
