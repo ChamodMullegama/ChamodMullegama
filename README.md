@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **MERN**
 
-- 🧑‍🎓 I’m an Undergraduate at **IC**
+- 🧑‍🎓 I’m an Undergraduate at **ICB**
 
 - 👯 I’m looking to collaborate on ***projects***
 
