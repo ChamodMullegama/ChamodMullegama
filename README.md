@@ -5,7 +5,6 @@
 
 <table align="center">
 <tr border="none">
-  
 <td width="50%" align="left">
 
 - 🧑‍🎓 I’m an Undergraduate at **ICBT**
