@@ -13,7 +13,6 @@ I'm a Software Engineer from Sri Lanka 🇱🇰. I enjoy building web applicatio
 
 ### Tech Stack 🛠️
 
-| HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | React | PHP | Laravel | Java | Spring | MySQL | Python | C++ | Git | GitHub | Linux |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=html" width="40"> | <img src="https://skillicons.dev/icons?i=css" width="40"> | <img src="https://skillicons.dev/icons?i=js" width="40"> | <img src="https://skillicons.dev/icons?i=bootstrap" width="40"> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"> | <img src="https://skillicons.dev/icons?i=react" width="40"> | <img src="https://skillicons.dev/icons?i=php" width="40"> | <img src="https://skillicons.dev/icons?i=laravel" width="40"> | <img src="https://skillicons.dev/icons?i=java" width="40"> | <img src="https://skillicons.dev/icons?i=spring" width="40"> | <img src="https://skillicons.dev/icons?i=mysql" width="40"> | <img src="https://skillicons.dev/icons?i=python" width="40"> | <img src="https://skillicons.dev/icons?i=cpp" width="40"> | <img src="https://skillicons.dev/icons?i=git" width="40"> | <img src="https://skillicons.dev/icons?i=github" width="40"> | <img src="https://skillicons.dev/icons?i=linux" width="40"> |
 
