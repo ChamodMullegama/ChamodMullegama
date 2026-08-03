@@ -19,5 +19,5 @@ I'm a Software Engineer from Sri Lanka 🇱🇰. I enjoy building web applicatio
 
 Feel free to connect with me for collaborations, software development opportunities, or to discuss technology.
 
-| [<img src="img/github-mark.png" alt="github logo" width="34">](https://github.com/ChamodMullegama) | [<img src="img/linkedin.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/chamod-mullegama-3ba4681b6/) | [<img src="img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/17042914/tharindu-wijayarathna) 
-|---|---|---|---|---|
+| [<img src="img/github-mark.png" alt="GitHub logo" width="34">](https://github.com/ChamodMullegama) | [<img src="img/linkedin.png" alt="LinkedIn logo" width="24">](https://www.linkedin.com/in/chamod-mullegama-3ba4681b6/) | [<img src="img/stack.svg" alt="Stack Overflow logo" width="24">](https://stackoverflow.com/users/17042914/tharindu-wijayarathna) |
+|---|---|---|
