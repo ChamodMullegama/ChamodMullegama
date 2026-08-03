@@ -15,13 +15,6 @@ I'm a Software Engineer from Sri Lanka 🇱🇰. I enjoy building web applicatio
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,php,laravel,java,spring,mysql,python,cpp,git,github,linux" />
 
-### Projects 📂
-
-- **AI-Powered Retinal Disease Diagnosis System** — A web application using AI to analyze OCT scans and provide retinal disease predictions.
-- **Inventory Management System** — A web-based system developed using Laravel and MySQL.
-- **Restaurant POS System** — A point-of-sale system for managing restaurant operations.
-- **Web Applications** — Various projects built using React, Laravel, PHP, Java, and MySQL.
-
 ### Connect with Me 📫
 
 Feel free to connect with me for collaborations, software development opportunities, or to discuss technology.
